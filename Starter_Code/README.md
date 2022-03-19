@@ -16,7 +16,7 @@
 
 * Machine Learning Model 2:
   * The second model had accuracy, precision, and recall scores of 99%, 92%, and 99%, respectively. 
-  ![Results second model](resampled.png)
+  ![Results second model](Resampled.png)
 
 ## Summary
 
